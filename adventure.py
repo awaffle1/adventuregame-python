@@ -7,7 +7,7 @@
 
 # Editing the source code may break your game.
 
-# Current version: v0.2.1
+# Current version: v0.3
 
 # Will always have good quality :D
 
@@ -23,7 +23,7 @@ player_hp = '10' # This variable is for a future version.
 print('HOMEUSER3 STUDIOS 2019 (est. 2017)') # Don't change this part
 print('')
 print('')
-print('Welcome to Adventure Game v0.2.1! I hope you enjoy!')
+print('Welcome to Adventure Game v0.3! I hope you enjoy!')
 
 name = input('First, I need to know your name. >> ')
 
