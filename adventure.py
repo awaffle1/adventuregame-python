@@ -20,7 +20,7 @@ player_dead = 'false' # This variable is for a future version.
 
 player_hp = '10' # This variable is for a future version.
 
-print('HOMEUSER3 STUDIOS 2019 (est. 2017)') # Don't change this part
+print('HOMEUSER3 STUDIOS (c) 2019') # Don't change this part
 print('')
 print('')
 print('Welcome to Adventure Game v0.3! I hope you enjoy!')
@@ -28,7 +28,7 @@ print('Welcome to Adventure Game v0.3! I hope you enjoy!')
 name = input('First, I need to know your name. >> ')
 
 print('Hello,', name, ".")
-print('I hope you enjoy my game!')
+
 print('Your current HP is', player_hp, ". HP is currently not fully implemented into the game yet.")
 
 print('First, let us find out where you want to go.')
